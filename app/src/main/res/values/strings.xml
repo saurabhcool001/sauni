@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Sauni</string>
     <string name="app_id"></string>
+    <string name="change_activity">Change Activity</string>
 </resources>
