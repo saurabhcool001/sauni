@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>6352</string>
+                <key>className</key>
+                <string>PTModelObjectButtonSoundControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Audio Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1054.170,548.771}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.328,0.328}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMuteAllSound</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6365</string>
+                <key>className</key>
+                <string>PTModelObjectButtonSoundControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Audio Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{758.301,112.960}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.282,0.282}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMuteAllSound</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>5</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

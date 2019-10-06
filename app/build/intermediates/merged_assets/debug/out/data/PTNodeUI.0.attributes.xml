@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>99</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Game Field UI</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{100.000,-100.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2010</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Pause</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{279.000,-269.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2021</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Game Over UI</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,-100.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>5986</string>
+                <key>className</key>
+                <string>PTNodeUI</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Menu</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-325.000,-170.000}</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
